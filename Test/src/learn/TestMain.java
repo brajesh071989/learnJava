@@ -12,7 +12,7 @@ package learn;
 public class TestMain {
     
     public static void main (String [] args){
-        Test tst=new Test("Brajesh Kumar",31);
+        Test tst=new Test("Neeraj KUmar",27);
         
         System.out.println("Name of user is : "+tst.getName());
         System.out.println("Age of the user is : "+tst.getAge());
